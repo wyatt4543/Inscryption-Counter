@@ -15,7 +15,7 @@
 	margin: 30px;
 }
 .counter{
-	width: 30%;
+	width: 100%;
 	display: flex;
 	justify-content: center;
 }
@@ -36,11 +36,10 @@
 #counter-value{
 	height: 50px;
 	min-width: 120px;
-	border-radius: 10px;
-	background-color: rgba(255, 0, 0, 0.187);
 	margin-top: 20px;
 	font-size: 30px;
-	display: flex;
-	justify-content: center;
-	align-items: center;
+	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(-50%, -50%);
 }
