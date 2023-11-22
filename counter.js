@@ -6,7 +6,7 @@ const decrementBtnR = document.getElementById('decrement-btnR');
 
 // To increment the value of counter
 incrementBtnR.addEventListener('click', () => {
-	counteRr++;
+	counterR++;
 	counterValueR.innerHTML = counter;
 });
 
