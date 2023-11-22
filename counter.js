@@ -4,7 +4,7 @@ let counterL = 0;
 const counterValueR = document.getElementById('counter-valueR');
 const incrementBtnR = document.getElementById('increment-btnR');
 const decrementBtnR = document.getElementById('decrement-btnR');
-const counterValueR = document.getElementById('counter-valueL');
+const counterValueL = document.getElementById('counter-valueL');
 const incrementBtnL = document.getElementById('increment-btnR');
 const decrementBtnL = document.getElementById('decrement-btnR');
 
