@@ -31,6 +31,8 @@
   	transform: translate(55%, 500%);
 }
 #counter-valueR{
+	z-index: 1;
+	color:#696969;
 	height: 50px;
 	min-width: 120px;
 	margin-top: 20px;
@@ -56,6 +58,8 @@
   	transform: translate(-180%, 500%);
 }
 #counter-valueL{
+	z-index: 1;
+	color:#696969;
 	height: 50px;
 	min-width: 120px;
 	margin-top: 20px;
