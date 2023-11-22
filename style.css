@@ -15,7 +15,7 @@
 	display: flex;
 	justify-content: center;
 }
-#increment-btn{
+#increment-btnR{
 	height: 50px;
     	width: 120px;
     	padding: 0 40px;
@@ -30,7 +30,7 @@
   	left: 50%;
   	transform: translate(-130%, 500%);
 }
-#decrement-btn{
+#decrement-btnR{
 	height: 50px;
     	width: 120px;
     	padding: 0 40px;
