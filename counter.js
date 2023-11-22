@@ -7,11 +7,11 @@ const decrementBtnR = document.getElementById('decrement-btnR');
 // To increment the value of counter
 incrementBtnR.addEventListener('click', () => {
 	counterR++;
-	counterValueR.innerHTML = counter;
+	counterValueR.innerHTML = counterR;
 });
 
 // To decrement the value of counter
 decrementBtnR.addEventListener('click', () => {
 	counterR--;
-	counterValueR.innerHTML = counter;
+	counterValueR.innerHTML = counterR;
 });
