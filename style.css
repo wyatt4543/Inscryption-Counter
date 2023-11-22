@@ -28,7 +28,7 @@
 	position: absolute;
   	top: 50%;
   	left: 50%;
-  	transform: translate(-130%, 500%);
+  	transform: translate(55%, 500%);
 }
 #decrement-btnR{
 	height: 50px;
@@ -43,7 +43,7 @@
 	position: absolute;
   	top: 50%;
   	left: 50%;
-  	transform: translate(-5%, 500%);
+  	transform: translate(180%, 500%);
 }
 #counter-valueR{
 	height: 50px;
