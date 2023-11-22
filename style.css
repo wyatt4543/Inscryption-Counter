@@ -55,6 +55,36 @@
   	left: 50%;
   	transform: translate(172%, 50%);
 }
+#increment-btnL{
+	height: 50px;
+    	width: 120px;
+    	padding: 0 40px;
+    	border-radius: 10px;
+   	font-size: 40px;
+    	background-color: #2e8d46;
+    	border: 2px solid #2e8d46;
+    	color: white;
+    	margin: 20px;
+	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(55%, 500%);
+}
+#decrement-btnL{
+	height: 50px;
+    	width: 120px;
+    	padding: 0 40px;
+    	border-radius: 10px;
+   	font-size: 40px;
+    	background-color: #2e8d46;
+    	border: 2px solid #2e8d46;
+    	color: white;
+    	margin: 20px;
+	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	transform: translate(180%, 500%);
+}
 #counter-valueL{
 	height: 50px;
 	min-width: 120px;
@@ -63,5 +93,5 @@
 	position: absolute;
   	top: 50%;
   	left: 50%;
-  	transform: translate(-172%, 50%);
+  	transform: translate(-184%, 50%);
 }
