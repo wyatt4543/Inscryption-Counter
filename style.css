@@ -130,7 +130,7 @@ body {
   	left: 50%;
   	transform: translate(-182.5%, 50%);
 }
-#counter-valueT1, #counter-valueT2, #counter-valueT3, #counter-valueT4, #counter-valueB1, #counter-valueB2, #counter-valueB3, #counter-valueB4{
+#counter-valueT1A, #counter-valueT2A, #counter-valueT3A, #counter-valueT4A, #counter-valueB1A, #counter-valueB2A, #counter-valueB3A, #counter-valueB4A, #counter-valueT1H, #counter-valueT2H, #counter-valueT3H, #counter-valueT4H, #counter-valueB1H, #counter-valueB2H, #counter-valueB3H, #counter-valueB4H{
 	z-index: 1;
 	color:#FFFFFF;
 	height: 50px;
