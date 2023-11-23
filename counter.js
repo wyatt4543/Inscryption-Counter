@@ -23,6 +23,11 @@ incrementBtnL.addEventListener('click', () => {
 });
 
 // To increment the value of multiple counters
-function increment() {
-    counterValue.innerHTML = counter;
+function increment(button) {
+    counter-valueT1A.innerHTML = button.id;
+}
+
+// To decrement the value of multiple counters
+function decrement(button) {
+    counter-valueT1A.innerHTML = button.id;
 }
