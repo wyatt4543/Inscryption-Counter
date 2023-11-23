@@ -24,7 +24,8 @@ body {
 	justify-content: center;
 }
 #T1, #T2, #T3, #T4, #B1, #B2, #B3, #B4{
-	width:10%;
+	z-index: -1;
+	width: 10%;
 	height: 60%;
 }
 #T1{
@@ -128,4 +129,14 @@ body {
   	top: 50%;
   	left: 50%;
   	transform: translate(-182.5%, 50%);
+}
+#counter-valueT1, #counter-valueT2, #counter-valueT3, #counter-valueT4, #counter-valueB1, #counter-valueB2, #counter-valueB3, #counter-valueB4{
+	z-index: 1;
+	height: 50px;
+	min-width: 120px;
+	margin-top: 20px;
+	font-size: 30px;
+	position: absolute;
+  	top: -25%;
+  	left: -20%;
 }
