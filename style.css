@@ -23,11 +23,19 @@ body {
 	left: 30%;
 	justify-content: center;
 }
-.card-counter{
+.card-counterTOP{
 	width: 100%;
 	display: flex;
 	position: absolute;
 	left: -30%;
+	justify-content: center;
+}
+.card-counterBOTTOM{
+	width: 100%;
+	display: flex;
+	position: absolute;
+	left: -30%;
+	top: 50%;
 	justify-content: center;
 }
 #increment-btnR{
