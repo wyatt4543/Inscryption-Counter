@@ -138,6 +138,44 @@ body {
 	margin-top: 20px;
 	font-size: 30px;
 	position: absolute;
-  	top: 40%;
+}
+#counter-valueT1A{
+	position: absolute;
+	top: 40%;
   	left: -23.5%;
+}
+#counter-valueT2A{
+	position: absolute;
+	top: 40%;
+  	left: -13.5%;
+}
+#counter-valueT3A{
+	position: absolute;
+	top: 40%;
+  	left: -3.5%;
+}
+#counter-valueT4A{
+	position: absolute;
+	top: 40%;
+  	left: 6.5%;
+}
+#counter-valueB1A{
+	position: absolute;
+	top: 110%;
+  	left: -23.5%;
+}
+#counter-valueB2A{
+	position: absolute;
+	top: 110%;
+  	left: -13.5%;
+}
+#counter-valueB3A{
+	position: absolute;
+	top: 110%;
+  	left: -3.5%;
+}
+#counter-valueB4A{
+	position: absolute;
+	top: 110%;
+  	left: 6.5%;
 }
