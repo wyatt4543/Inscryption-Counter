@@ -21,3 +21,8 @@ incrementBtnL.addEventListener('click', () => {
 	counterR--;
 	counterValueR.innerHTML = counterR;
 });
+
+// To increment the value of multiple counters
+function increment() {
+    counterValue.innerHTML = counter;
+}
