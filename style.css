@@ -219,14 +219,53 @@ body {
   	left: 12.7%;
 }
 .change-button{
-	height: 50px;
-    	width: 120px;
-    	padding: 0 40px;
+	height: 30px;
+    	width: 30px;
     	border-radius: 10px;
-   	font-size: 40px;
+   	font-size: 25px;
     	background-color: #2e8d46;
     	border: 2px solid #2e8d46;
     	color: white;
     	margin: 20px;
-	position: absolute;
 }
+#increment-btnT1A{
+	position: absolute;
+	top: 48%;
+  	left: -26%;
+}
+#increment-btnT2A{
+	position: absolute;
+	top: 48%;
+  	left: -16%;
+}
+#decrement-btnT1A{
+	position: absolute;
+	top: 48%;
+  	left: -24%;
+}
+#decrement-btnT2A{
+	position: absolute;
+	top: 48%;
+  	left: -14%;
+}
+#increment-btnT1H{
+	position: absolute;
+	top: 48%;
+  	left: -26%;
+}
+#increment-btnT2H{
+	position: absolute;
+	top: 48%;
+  	left: -16%;
+}
+#decrement-btnT1H{
+	position: absolute;
+	top: 48%;
+  	left: -24%;
+}
+#decrement-btnT2H{
+	position: absolute;
+	top: 48%;
+  	left: -14%;
+}
+//B1A top:118
