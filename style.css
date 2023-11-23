@@ -19,6 +19,8 @@ body {
 .scale-counter{
 	width: 100%;
 	display: flex;
+	position: absolute;
+	left: 30%;
 	justify-content: center;
 }
 #increment-btnR{
