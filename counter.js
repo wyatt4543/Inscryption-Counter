@@ -24,10 +24,10 @@ incrementBtnL.addEventListener('click', () => {
 
 // To increment the value of multiple counters
 function increment(button) {
-    counter-valueT1A.innerHTML = button.id;
+    counter-valueT1A.innerHTML = 2;
 }
 
 // To decrement the value of multiple counters
 function decrement(button) {
-    counter-valueT1A.innerHTML = button.id;
+    counter-valueT1A.innerHTML = 2;
 }
