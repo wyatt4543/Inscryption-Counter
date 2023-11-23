@@ -137,45 +137,84 @@ body {
 	min-width: 120px;
 	margin-top: 20px;
 	font-size: 30px;
-	position: absolute;
 }
 #counter-valueT1A{
 	position: absolute;
-	top: 40%;
+	top: 25%;
   	left: -23.5%;
 }
 #counter-valueT2A{
 	position: absolute;
-	top: 40%;
+	top: 25%;
   	left: -13.5%;
 }
 #counter-valueT3A{
 	position: absolute;
-	top: 40%;
+	top: 25%;
   	left: -3.5%;
 }
 #counter-valueT4A{
 	position: absolute;
-	top: 40%;
+	top: 25%;
   	left: 6.5%;
+}
+#counter-valueT1H{
+	position: absolute;
+	top: 36%;
+  	left: -17.3%;
+}
+#counter-valueT2H{
+	position: absolute;
+	top: 36%;
+  	left: -7.3%;
+}
+#counter-valueT3H{
+	position: absolute;
+	top: 36%;
+  	left: 2.7%;
+}
+#counter-valueT4H{
+	position: absolute;
+	top: 36%;
+  	left: 12.7%;
 }
 #counter-valueB1A{
 	position: absolute;
-	top: 110%;
+	top: 95%;
   	left: -23.5%;
 }
 #counter-valueB2A{
 	position: absolute;
-	top: 110%;
+	top: 95%;
   	left: -13.5%;
 }
 #counter-valueB3A{
 	position: absolute;
-	top: 110%;
+	top: 95%;
   	left: -3.5%;
 }
 #counter-valueB4A{
 	position: absolute;
-	top: 110%;
+	top: 95%;
   	left: 6.5%;
+}
+#counter-valueB1H{
+	position: absolute;
+	top: 106%;
+  	left: -17.3%;
+}
+#counter-valueB2H{
+	position: absolute;
+	top: 106%;
+  	left: -7.3%;
+}
+#counter-valueB3H{
+	position: absolute;
+	top: 106%;
+  	left: 2.7%;
+}
+#counter-valueB4H{
+	position: absolute;
+	top: 106%;
+  	left: 12.7%;
 }
