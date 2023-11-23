@@ -238,6 +238,16 @@ body {
 	top: 48%;
   	left: -16%;
 }
+#increment-btnT3A{
+	position: absolute;
+	top: 48%;
+  	left: -6%;
+}
+#increment-btnT4A{
+	position: absolute;
+	top: 48%;
+  	left: 4%;
+}
 #decrement-btnT1A{
 	position: absolute;
 	top: 48%;
@@ -247,6 +257,16 @@ body {
 	position: absolute;
 	top: 48%;
   	left: -14%;
+}
+#decrement-btnT3A{
+	position: absolute;
+	top: 48%;
+  	left: -4%;
+}
+#decrement-btnT4A{
+	position: absolute;
+	top: 48%;
+  	left: 6%;
 }
 #increment-btnT1H{
 	position: absolute;
