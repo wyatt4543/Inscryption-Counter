@@ -308,4 +308,83 @@ body {
 	top: 48%;
   	left: 12%;
 }
-//B1A top:118
+#increment-btnB1A{
+	position: absolute;
+	top: 118%;
+  	left: -26%;
+}
+#increment-btnB2A{
+	position: absolute;
+	top: 118%;
+  	left: -16%;
+}
+#increment-btnB3A{
+	position: absolute;
+	top: 118%;
+  	left: -6%;
+}
+#increment-btnB4A{
+	position: absolute;
+	top: 118%;
+  	left: 4%;
+}
+#decrement-btnB1A{
+	position: absolute;
+	top: 118%;
+  	left: -24%;
+}
+#decrement-btnB2A{
+	position: absolute;
+	top: 118%;
+  	left: -14%;
+}
+#decrement-btnB3A{
+	position: absolute;
+	top: 118%;
+  	left: -4%;
+}
+#decrement-btnB4A{
+	position: absolute;
+	top: 118%;
+  	left: 6%;
+}
+#increment-btnB1H{
+	position: absolute;
+	top: 118%;
+  	left: -20%;
+}
+#increment-btnB2H{
+	position: absolute;
+	top: 118%;
+  	left: -10%;
+}
+#increment-btnB3H{
+	position: absolute;
+	top: 118%;
+  	left: 0%;
+}
+#increment-btnB4H{
+	position: absolute;
+	top: 118%;
+  	left: 10%;
+}
+#decrement-btnB1H{
+	position: absolute;
+	top: 118%;
+  	left: -18%;
+}
+#decrement-btnB2H{
+	position: absolute;
+	top: 118%;
+  	left: -8%;
+}
+#decrement-btnB3H{
+	position: absolute;
+	top: 118%;
+  	left: 2%;
+}
+#decrement-btnB4H{
+	position: absolute;
+	top: 118%;
+  	left: 12%;
+}
