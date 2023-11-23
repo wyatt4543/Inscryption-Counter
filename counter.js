@@ -4,7 +4,6 @@ let counterL = 0;
 const counterValueR = document.querySelector("#counter-valueR");
 const incrementBtnR = document.querySelector("#increment-btnR");
 const counterValueL = document.querySelector("#counter-valueL");
-const counterValueT1A = document.querySelector("#counter-valueT1A");
 const incrementBtnL = document.querySelector("#increment-btnL");
 
 // To increment the value of counter
@@ -25,10 +24,12 @@ incrementBtnL.addEventListener('click', () => {
 
 // To increment the value of multiple counters
 function increment(button) {
-    counterValueT1A.innerHTML = button.id;
+    let id = button.id.slice(-3);
+    document.querySelector("#counter-value" + id).innerHTML++;
 }
 
 // To decrement the value of multiple counters
 function decrement(button) {
-    counterValueT1A.innerHTML = button.id;
+    let id = button.id.slice(-3);
+    document.querySelector("#counter-value" + id).innerHTML--;
 }
