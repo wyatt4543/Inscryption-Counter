@@ -14,7 +14,6 @@ incrementBtnR.addEventListener('click', () => {
 	counterValueL.innerHTML = counterL;
 });
 
-
 // To increment the value of counter
 incrementBtnL.addEventListener('click', () => {
 	counterL++;
