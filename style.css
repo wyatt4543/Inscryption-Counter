@@ -27,15 +27,16 @@ body {
 	width: 100%;
 	display: flex;
 	position: absolute;
-	left: -30%;
+	left: -15%;
+	top: 20%;
 	justify-content: center;
 }
 .card-counterBOTTOM{
 	width: 100%;
 	display: flex;
 	position: absolute;
-	left: -30%;
-	top: 50%;
+	left: -15%;
+	top: 60%;
 	justify-content: center;
 }
 #increment-btnR{
