@@ -218,7 +218,7 @@ body {
 	top: 106%;
   	left: 12.7%;
 }
-#increment-btnT1A, #increment-btnT2A, #decrement-btnT1A, #decrement-btnT2A{
+.change-button{
 	height: 50px;
     	width: 120px;
     	padding: 0 40px;
