@@ -23,19 +23,55 @@ body {
 	left: 30%;
 	justify-content: center;
 }
-#card-counterTOP{
-	width: 100%;
-	display: flex;
+#T1, #T2, #T3, #T4, #B1, #B2, #B3, #B4{
+	width:10%;
+	height: 60%;
+}
+#T1{
 	position: absolute;
-	left: -15%;
-	top: 20%;
+	left: -25%;
+	top: -10%;
 	justify-content: center;
 }
-#card-counterBOTTOM{
-	width: 100%;
-	display: flex;
+#T2{
 	position: absolute;
 	left: -15%;
+	top: -10%;
+	justify-content: center;
+}
+#T3{
+	position: absolute;
+	left: -5%;
+	top: -10%;
+	justify-content: center;
+}
+#T4{
+	position: absolute;
+	left: 5%;
+	top: -10%;
+	justify-content: center;
+}
+#B1{
+	position: absolute;
+	left: -25%;
+	top: 60%;
+	justify-content: center;
+}
+#B2{
+	position: absolute;
+	left: -15%;
+	top: 60%;
+	justify-content: center;
+}
+#B3{
+	position: absolute;
+	left: -5%;
+	top: 60%;
+	justify-content: center;
+}
+#B4{
+	position: absolute;
+	left: 5%;
 	top: 60%;
 	justify-content: center;
 }
