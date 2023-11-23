@@ -16,14 +16,14 @@ body {
 #scale{
 	z-index: -1;
 }
-.scale-counter{
+#scale-counter{
 	width: 100%;
 	display: flex;
 	position: absolute;
 	left: 30%;
 	justify-content: center;
 }
-.card-counterTOP{
+#card-counterTOP{
 	width: 100%;
 	display: flex;
 	position: absolute;
@@ -31,7 +31,7 @@ body {
 	top: 20%;
 	justify-content: center;
 }
-.card-counterBOTTOM{
+#card-counterBOTTOM{
 	width: 100%;
 	display: flex;
 	position: absolute;
