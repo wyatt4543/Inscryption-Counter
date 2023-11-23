@@ -132,11 +132,12 @@ body {
 }
 #counter-valueT1, #counter-valueT2, #counter-valueT3, #counter-valueT4, #counter-valueB1, #counter-valueB2, #counter-valueB3, #counter-valueB4{
 	z-index: 1;
+	color:#FFFFFF;
 	height: 50px;
 	min-width: 120px;
 	margin-top: 20px;
 	font-size: 30px;
 	position: absolute;
-  	top: -25%;
-  	left: -20%;
+  	top: 40%;
+  	left: -23.5%;
 }
