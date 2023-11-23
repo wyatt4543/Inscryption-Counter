@@ -64,7 +64,7 @@ body {
 	position: absolute;
   	top: 50%;
   	left: 50%;
-  	transform: translate(172%, 50%);
+  	transform: translate(170%, 50%);
 }
 #increment-btnL{
 	height: 50px;
@@ -91,5 +91,5 @@ body {
 	position: absolute;
   	top: 50%;
   	left: 50%;
-  	transform: translate(-184%, 50%);
+  	transform: translate(-182.5%, 50%);
 }
